@@ -1,6 +1,6 @@
 name: Nodejs CI
 on:
-  pullrequest:
+  pull_request:
     branches:
       - develop
 
